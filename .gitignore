@@ -1,0 +1,9 @@
+/.vs/ltclient/v15/.suo
+/.vs
+/x64
+/Debug
+/ltclient/x64/debug
+/ltclient/debug
+/ltclient/Lib/libtorrent32
+/ltclient/Lib/libtorrent64
+

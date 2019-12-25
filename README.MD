@@ -1,0 +1,3 @@
+需要添加libtorrent头文件和boost库头文件目录
+
+需要的lib文件太大，如有需要可以私信jiangyingfeng163@163.com
